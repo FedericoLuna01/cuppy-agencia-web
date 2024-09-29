@@ -3,10 +3,9 @@ import { Layers, Mail, MessagesSquare, MonitorSmartphone, Server } from "lucide-
 
 export const data = {
   title: "Cuppy agencia web",
-  description: "Proyecto base para Next.js",
+  description: "Cuppy Agencia Web es una agencia especializada en diseño y desarrollo de sitios web modernos y optimizados. Ofrecemos soluciones personalizadas para empresas y emprendedores, enfocadas en mejorar la presencia digital, aumentar las conversiones y potenciar tu marca online. Contáctanos para crear tu página web profesional.",
   name: "Cuppy",
   navbar: {
-    logo: "Logo",
     links: [
       "Inicio", "Que ofrecemos", "Acerca", "Servicios", "Proyectos", "Contacto"
     ],
@@ -89,32 +88,39 @@ export const data = {
   pricing: [
     {
       title: "Página web compleja",
-      description: "For individuals and organizations who want to try our system",
+      description: "Perfecto para empresas o proyectos que necesitan mostrar mucha información y funcionalidades",
       features: [
-        "1.000 MB file storage",
-        "2.000 MB bandwidth per month",
-        "200 tasks per month",
-        "Comunity support"
+        "Diseño único a medida",
+        "Las secciones que necesites",
+        "Las vistas que necesites",
+        "Formulario de contacto",
+        "Botón de WhatsApp",
+        "Estadísticas de tu web",
       ]
     },
     {
       title: "Landing page",
       description: "For individuals and organizations who want to try our system",
       features: [
-        "1.000 MB file storage",
-        "2.000 MB bandwidth per month",
-        "200 tasks per month",
-        "Comunity support"
+        "Diseño único a medida",
+        "Hasta 6 secciones",
+        "Una vista",
+        "Formulario de contacto",
+        "Botón de WhatsApp",
+        "Estadísticas de tu web",
       ]
     },
     {
       title: "Página web autogestionable",
       description: "For individuals and organizations who want to try our system",
       features: [
-        "1.000 MB file storage",
-        "2.000 MB bandwidth per month",
-        "200 tasks per month",
-        "Comunity support"
+        "Diseño único a medida",
+        "Las secciones que necesites",
+        "Las vistas que necesites",
+        "Formulario de contacto",
+        "Botón de WhatsApp",
+        "Estadísticas de tu web",
+        "Panel de administración",
       ]
     },
   ]
